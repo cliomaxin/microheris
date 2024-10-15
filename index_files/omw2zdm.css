@@ -1,0 +1,22 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * kon-tiki-aloha-jf:
+ *   - http://typekit.com/eulas/00000000000000007735b3df
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-08-30 15:33:13 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=omw2zdm&ht=tk&f=28176&a=83697656&app=typekit&e=css");
+
+@font-face {
+font-family:"kon-tiki-aloha-jf";
+src:url("https://use.typekit.net/af/7a8c9d/00000000000000007735b3df/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/7a8c9d/00000000000000007735b3df/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/7a8c9d/00000000000000007735b3df/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-kon-tiki-aloha-jf { font-family: "kon-tiki-aloha-jf",sans-serif; }

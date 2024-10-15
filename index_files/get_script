@@ -1,0 +1,10 @@
+
+  (function(){
+    if (location.pathname.includes('/thank_you') || location.pathname.includes('/thank-you')) {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "https://gtm.gropulse.com/get_purchase_page_script?shop=new5hour.myshopify.com";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    }
+  })();
+  
