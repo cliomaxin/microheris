@@ -1,8 +1,4 @@
-/** Shopify CDN: Minification failed
 
-Line 865:98 Unexpected "{"
-
-**/
 .rc-container-wrapper {
   display: none;
 }
@@ -56,10 +52,10 @@ fieldset.bundleapp-wrapper {
 
 /** custom colors */
 :root {
-  --primary-btn-bg-color: #f4c965;
+  --primary-btn-bg-color: #24c2dc;
   --primary-btn-color: #000;
   --primary-btn-border: 1px solid black;
-  --primary-btn-bg-color-hover: #f4c965;
+  --primary-btn-bg-color-hover: #c3f9aa;
   --primary-btn-color-hover: #000;
   --primary-btn-border-hover: 1px solid #000;
   --primary-btn-disabled-color: #828282;
@@ -73,7 +69,7 @@ fieldset.bundleapp-wrapper {
   --unselected-btn-color: var(--primary-btn-disabled-color);
   --unselected-btn-bg-color: transparent;
   --progress-bar-bg-color: #eeeeee;
-  --progress-bar-completed-bg-color: #e86f00;
+  --progress-bar-completed-bg-color: #88e777;
   --progress-bar-color: #000;
   --progress-bar-completed-color: #fff;
   --awt-footer-height-all-and-controls: 245px;
